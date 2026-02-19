@@ -6,3 +6,7 @@ pydantic
 aiosqlite
 passlib
 python-multipart
+
+black
+isort
+flake8
